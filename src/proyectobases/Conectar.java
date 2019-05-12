@@ -17,7 +17,7 @@ public class Conectar {
     private String contrasena;
 
     public Conectar(String usuario, String contrasena) {
-        System.out.println("---------------------");
+        System.out.println("-----------              ----------");
         this.usuario = usuario;
         this.contrasena = contrasena;
         try {
